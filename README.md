@@ -1,2 +1,2 @@
 # Hospital
-just a random practice exerciser
+just a random practice exercise
